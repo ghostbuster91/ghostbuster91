@@ -1,0 +1,21 @@
+on:
+  push:
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+    - name: Generate README.md
+      uses: teoxoy/profile-readme-stats@master
+      with:
+        token: ${{ secrets.PROFILE_TOKEN }}
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.COMMIT_TOKEN }}
