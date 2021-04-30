@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**ghostbuster91/ghostbuster91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Kasper and I currently work at [Allegro](https://allegro.pl/)
 
-Here are some ideas to get you started:
+I am trying to make the software world a better place in a various ways including reporting bugs to oss libraries and fixing them. I contributed to multiple projects during the recent time, to name a few:
+- [tapir](https://github.com/softwaremill/tapir)
+- [sttp](https://github.com/softwaremill/sttp)
+- [diffx](https://github.com/softwaremill/diffx)
+- [monix](https://github.com/monix/monix)
+- [zio](https://github.com/zio/zio)
+- [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently my main focus goes to [sttp-openapi-generator](https://github.com/ghostbuster91/sttp-openapi-generator)
+
+Feel free to reach me if you want to ask me about anything 🙂
+
+#### Some nerd stats about me
+
+I've got a Github account for **7** years. I've filled **383** issues and opened **306** pull requests so far. I've also made **4530** contributions to **41** different repositories.
+
+Most of the time I'm creating software in these languages:
+
+![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B131.8%25)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F18E33&message=Kotlin%EF%B8%B131.2%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B18.5%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B18.4%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B18%25)
+![Groovy](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e69f56&message=Groovy%EF%B8%B12.6%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B12.6%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B12%25)
+![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ffac45&message=Swift%EF%B8%B11.2%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.3%25)
