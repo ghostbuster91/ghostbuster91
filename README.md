@@ -16,7 +16,7 @@ Feel free to reach me if you want to ask me about anything 🙂
 
 #### Some nerd stats about me
 
-I've got a Github account for **7** years. I've filled **435** issues and opened **322** pull requests so far. I've also made **4718** contributions to **40** different repositories.
+I've got a Github account for **7** years. I've filled **435** issues and opened **322** pull requests so far. I've also made **4719** contributions to **40** different repositories.
 
 Most of the time I'm creating software in these languages:
 
