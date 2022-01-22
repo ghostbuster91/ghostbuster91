@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Kasper and I currently work at [Signicat](https://www.signicat.com/)
+Hi, my name is Kasper and I currently work at [IOHK](https://iohk.io/)
 
 I am trying to make the software world a better place in a various ways including reporting bugs to oss libraries and fixing them. I contributed to multiple projects during the recent time, to name a few:
 - [tapir](https://github.com/softwaremill/tapir)
