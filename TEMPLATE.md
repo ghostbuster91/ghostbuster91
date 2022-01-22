@@ -10,8 +10,6 @@ I am trying to make the software world a better place in a various ways includin
 - [zio](https://github.com/zio/zio)
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
-Currently my main focus goes to [sttp-openapi-generator](https://github.com/ghostbuster91/sttp-openapi-generator)
-
 Feel free to reach me if you want to ask me about anything 🙂
 
 #### Some nerd stats about me
