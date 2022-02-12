@@ -20,10 +20,10 @@ Since then I pushed **4601** commits, opened **470** issues, submitted **368** p
 
 Most of the time I'm creating software in these languages:
 
-![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B135.3%25)
-![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B123.6%25)
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B19.9%25)
-![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B17.3%25)
+![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B135.5%25)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B123.7%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B19.6%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B17.4%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B16.4%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B16.1%25)
 ![Groovy](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234298b8&message=Groovy%EF%B8%B12%25)
