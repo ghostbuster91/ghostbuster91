@@ -16,7 +16,7 @@ Feel free to reach me if you want to ask me about anything 🙂
 
 Joined Github **8** years ago.
 
-Since then I pushed **5160** commits, opened **490** issues, submitted **524** pull requests, received **115** stars across **71** personal projects and contributed to **33** public repositories.
+Since then I pushed **5160** commits, opened **490** issues, submitted **525** pull requests, received **115** stars across **71** personal projects and contributed to **33** public repositories.
 
 Most of the time I'm creating software in these languages:
 
