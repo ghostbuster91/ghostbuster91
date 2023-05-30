@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-Hi, my name is Kasper and I currently work at [IOHK](https://iohk.io/)
+Hi, my name is Kasper and I currently work at [SiriusXM](https://www.siriusxm.com/)
 
-I am trying to make the software world a better place in a various ways including reporting bugs to oss libraries and fixing them. I contributed to multiple projects during the recent time, to name a few:
-- [tapir](https://github.com/softwaremill/tapir)
-- [sttp](https://github.com/softwaremill/sttp)
-- [diffx](https://github.com/softwaremill/diffx)
-- [monix](https://github.com/monix/monix)
-- [zio](https://github.com/zio/zio)
-- [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+I am trying to make the software world a better place in a various ways including reporting bugs to oss libraries and fixing them. 
+
+Nowadays, I mostly contribute to following ecosystems:
+- neovim
+- nix 
+- scala
+
+I am also a fan of mechanical keyboards. I have few, and I even built my own fork of Dilemma - https://github.com/ghostbuster91/Dilemma3x6_3
 
 Feel free to reach me if you want to ask me about anything 🙂
 
@@ -16,7 +17,7 @@ Feel free to reach me if you want to ask me about anything 🙂
 
 Joined Github **9** years ago.
 
-Since then I pushed **5287** commits, opened **550** issues, submitted **432** pull requests, received **145** stars across **78** personal projects and contributed to **39** public repositories.
+Since then I pushed **5288** commits, opened **550** issues, submitted **432** pull requests, received **145** stars across **78** personal projects and contributed to **39** public repositories.
 
 Most of the time I'm creating software in these languages:
 
