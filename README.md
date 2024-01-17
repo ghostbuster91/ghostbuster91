@@ -17,14 +17,14 @@ Feel free to reach me if you want to ask me about anything 🙂
 
 Joined Github **10** years ago.
 
-Since then I pushed **6444** commits, opened **607** issues, submitted **504** pull requests, received **166** stars across **92** personal projects and contributed to **57** public repositories.
+Since then I pushed **6445** commits, opened **607** issues, submitted **504** pull requests, received **166** stars across **92** personal projects and contributed to **57** public repositories.
 
 Most of the time I'm creating software in these languages:
 
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B128%25)
 ![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B125.4%25)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B112.5%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B18.4%25)
+![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B18.5%25)
 ![Nix](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237e7eff&message=Nix%EF%B8%B18.1%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B15.5%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B13.2%25)
