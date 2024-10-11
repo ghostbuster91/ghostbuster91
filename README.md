@@ -15,7 +15,7 @@ Feel free to reach me if you want to ask me about anything 🙂
 
 #### Some nerd stats about me
 
-Joined Github **10** years ago.
+Joined Github **11** years ago.
 
 Since then I pushed **6634** commits, opened **719** issues, submitted **580** pull requests, received **224** stars across **93** personal projects and contributed to **46** public repositories.
 
