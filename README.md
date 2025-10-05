@@ -17,11 +17,11 @@ Feel free to reach me if you want to ask me about anything 🙂
 
 Joined Github **11** years ago.
 
-Since then I pushed **6976** commits, opened **752** issues, submitted **694** pull requests, received **261** stars across **100** personal projects and contributed to **31** public repositories.
+Since then I pushed **6979** commits, opened **752** issues, submitted **695** pull requests, received **261** stars across **100** personal projects and contributed to **31** public repositories.
 
 Most of the time I'm creating software in these languages:
 
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B126.4%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B126.3%25)
 ![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B124.7%25)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B111.8%25)
 ![Nix](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237e7eff&message=Nix%EF%B8%B110.3%25)
