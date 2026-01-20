@@ -17,7 +17,7 @@ Feel free to reach me if you want to ask me about anything 🙂
 
 Joined Github **12** years ago.
 
-Since then I pushed **7105** commits, opened **758** issues, submitted **717** pull requests, received **263** stars across **102** personal projects and contributed to **30** public repositories.
+Since then I pushed **7108** commits, opened **758** issues, submitted **717** pull requests, received **263** stars across **102** personal projects and contributed to **30** public repositories.
 
 Most of the time I'm creating software in these languages:
 
@@ -28,7 +28,7 @@ Most of the time I'm creating software in these languages:
 ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B18.3%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B15.4%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B13.2%25)
-![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B11.9%25)
+![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B12.2%25)
 ![Scheme](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%231e4aec&message=Scheme%EF%B8%B11.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B16.5%25)
 
