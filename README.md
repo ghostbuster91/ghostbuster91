@@ -22,8 +22,8 @@ Since then I pushed **8428** commits, opened **774** issues, submitted **825** p
 Most of the time I'm creating software in these languages:
 
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B122.2%25)
-![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B120.9%25)
-![Nix](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237e7eff&message=Nix%EF%B8%B120.5%25)
+![Scala](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c22d40&message=Scala%EF%B8%B120.8%25)
+![Nix](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%237e7eff&message=Nix%EF%B8%B120.7%25)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B19.9%25)
 ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B19.5%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B14.6%25)
